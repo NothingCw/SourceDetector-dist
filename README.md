@@ -1,4 +1,10 @@
 SourceDetector是一个自动发现.map文件，并帮你下载到本地的一个chrome extension。
+# 使用
+下载SourceDetector.zip
+直接开发者模式加载即可。
+
+
+---
 
 # 缘起
 
